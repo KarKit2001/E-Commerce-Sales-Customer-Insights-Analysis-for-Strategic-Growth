@@ -1,0 +1,26 @@
+product_id,name,category,cost_price,sale_price
+1,Samsung Galaxy S22,Smartphones,226.03,321.4
+2,iPhone 13,Smartphones,2327.72,2745.24
+3,Xiaomi Mi 11,Smartphones,1537.85,1958.55
+4,Realme GT,Smartphones,1868.54,2076.82
+5,OnePlus 9,Smartphones,1199.23,1690.66
+6,Dell XPS 13,Laptops,516.51,845.39
+7,MacBook Air,Laptops,2187.21,2678.84
+8,Asus ROG,Laptops,1161.23,1491.38
+9,HP Pavilion,Laptops,2156.98,2180.23
+10,Lenovo ThinkPad,Laptops,2117.98,2261.25
+11,Sony WH-1000XM4,Headphones,684.15,1140.8
+12,Bose QC35,Headphones,1374.7,1832.92
+13,AirPods Pro,Headphones,2221.26,2720.97
+14,JBL Tune 500,Headphones,1561.82,1648.98
+15,Anker Soundcore,Headphones,701.9,883.51
+16,Apple Watch,Smartwatches,2149.78,2262.82
+17,Samsung Galaxy Watch,Smartwatches,863.17,1281.37
+18,Huawei Watch GT,Smartwatches,1121.93,1284.73
+19,Amazfit Bip,Smartwatches,345.34,604.72
+20,Fitbit Versa,Smartwatches,2239.43,2546.09
+21,USB-C Cable,Accessories,567.77,831.95
+22,Laptop Stand,Accessories,2793.84,3060.54
+23,Wireless Mouse,Accessories,157.23,302.76
+24,Keyboard,Accessories,2687.25,3157.13
+25,Power Bank,Accessories,1121.83,1191.68
